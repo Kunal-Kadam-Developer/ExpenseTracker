@@ -3,6 +3,8 @@ This is a simple, self-contained Expense Tracker web app built with HTML, CSS, a
 
 
 Key Features
+
+
 Add Expenses: Form for entering name and amount with real-time validation.
 
 List & Delete: Dynamic list of expenses with individual delete buttons.
